@@ -1,0 +1,5 @@
+DEBUG = True
+
+SECRET_KEY = '-4hf0cef!$bgfdfdye98giasdlp)&p0fc&fh*;kglkfdjg+i!1cghfjn8be!87*z+7'
+DJANGO_ALLOWED_HOSTS = 'https://127.0.0.1:8000 localhost download-cdn.jetbrains.com downloads.marketplace.jetbrains.com 0.0.0.0'
+DJANGO_CSRF_HOSTS = 'https://127.0.0.1:8000 localhost'
